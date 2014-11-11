@@ -1,0 +1,57 @@
+[
+  {
+    "nombre": "Babidi",
+    "imagen": "babidi.jpg",
+    "powerlevel": 500
+  },
+  {
+    "nombre": "Boo",
+    "imagen": "boo.jpg",
+    "powerlevel": 50000
+  },
+  {
+    "nombre": "Cell",
+    "imagen": "cell.jpg",
+    "powerlevel": 30000
+  },
+  {
+    "nombre": "Freezer",
+    "imagen": "freezer.jpg",
+    "powerlevel": 10000
+  },
+  {
+    "nombre": "Gohan",
+    "imagen": "gohan.jpg",
+    "powerlevel": 39000
+  },
+  {
+    "nombre": "Goku",
+    "imagen": "goku.jpg",
+    "powerlevel": 60000
+  },
+  {
+    "nombre": "Krillin",
+    "imagen": "krillin.jpg",
+    "powerlevel": 5000
+  },
+  {
+    "nombre": "Piccolo",
+    "imagen": "piccolo.jpg",
+    "powerlevel": 35000
+  },
+  {
+    "nombre": "Raditz",
+    "imagen": "raditz.jpg",
+    "powerlevel": 3000
+  },
+  {
+    "nombre": "Trunks",
+    "imagen": "trunks.jpg",
+    "powerlevel": 32000
+  },
+  {
+    "nombre": "Vegeta",
+    "imagen": "vegeta.jpg",
+    "powerlevel": 57000
+  }
+]
