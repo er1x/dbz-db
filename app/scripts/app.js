@@ -1,2 +1,4 @@
 
-angular.module('dbzDb', []);
+angular.module('dbzDb', [
+  'dbzDb.services'
+]);
