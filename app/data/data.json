@@ -3,66 +3,77 @@
     "id": 1,
     "nombre": "Babidi",
     "imagen": "babidi.jpg",
-    "powerlevel": 500
+    "powerlevel": 500,
+    "descripcion": "Babidi (バビディ), era un personaje de ficción de la serie de manga y anime de Dragon Ball. Aunque su raza se desconoce, se sabe que era hijo del gran mago Bibidi,el cual supuesta mente fue el fundador de la familia Makai. Este es el símbolo de la "M" que llevan ambos en el cinturón de sus atuendos al igual que la frente de aquellos que han sido poseídos para formar parte de la familia Makai."
   },
   {
     "id": 2,
     "nombre": "Boo",
     "imagen": "boo.jpg",
-    "powerlevel": 50000
+    "powerlevel": 50000,
+    "descripcion": "Boo Malvado, también conocido como Majin Boo Maldad Pura, es la personificación de la maldad que habitaba en Boo Gordo una vez que éste la expulsa. Se trata de una versión maligna del Majin Boo gordo, creada por el odio y la furia liberada por Boo al enfadarse en exceso, expulsándola en un intento de destruirla y así poder controlar sus emociones."
   },
   {
     "id": 3,
     "nombre": "Cell",
     "imagen": "cell.jpg",
-    "powerlevel": 30000
+    "powerlevel": 30000,
+    "descripcion": "Cell (セル, Seru , Célula en España) es un Bio-Androide creado por la computadora del Dr. Gero con la intención de vengarse de Goku por haber acabado con el Ejército Red Ribbon y con ello el sueño de todo villano: dominar el mundo."
   },
   {
     "id": 4,
     "nombre": "Freezer",
     "imagen": "freezer.jpg",
-    "powerlevel": 10000
+    "powerlevel": 10000,
+    "descripcion": "Freezer (フリーザ, Furīza)[5], también conocido como Frieza[6] o Freeza [7] (muerto en el Año 764) fue un alienígena líder de la Organización Interplanetaria de Comercio junto a su hermano mayor, Cooler, y en secreto, su padre King Cold."
   },
   {
     "id": 5,
     "nombre": "Gohan",
     "imagen": "gohan.jpg",
-    "powerlevel": 39000
+    "powerlevel": 39000,
+    "descripcion": "Son Gohan (孫 悟飯) Son Gohan-Da en España o simplemente Gohan, es uno de los personaje principales de las Sagas de Dragon Ball Z y Dragon Ball GT. Es mitad Saiyajin y mitad humano. Es el primer hijo de Son Goku, junto con Chichi, y es el hermano mayor de Son Goten. Mide 1.85 m. y pesa 80 kg (adulto)."
   },
   {
     "id": 6,
     "nombre": "Goku",
     "imagen": "goku.jpg",
-    "powerlevel": 60000
+    "powerlevel": 60000,
+    "descripcion": "Son Goku (孫 悟空, Son Gokū) es el personaje principal del manga y anime Dragon Ball, y superviviente de la destrucción del Planeta Vegeta cuyo nombre nativo es Kakarot (カカロット, Kakarotto) su nombre Saiyajin y proviene de una deformación del inglés \"carrot\" (zanahoria). Mide 1,85 y pesa 80 Kg."
   },
   {
     "id": 7,
     "nombre": "Krillin",
     "imagen": "krillin.jpg",
-    "powerlevel": 5000
+    "powerlevel": 5000,
+    "descripcion": "Krillin (クリリン ) es un personaje del Manga y Anime de Dragon Ball, siendo uno de los personajes principales en las dos primeras sub-series del anime Dragon Ball y Dragon Ball Z, aunque también aparece en Dragon Ball GT pero, se podría decir que como personaje secundario.Y tuvo durante mucho tiempo el privilegio de ser el terrícola más poderoso hasta la aparición de Oob."
   },
   {
     "id": 8,
     "nombre": "Piccolo",
     "imagen": "piccolo.jpg",
-    "powerlevel": 35000
+    "powerlevel": 35000,
+    "descripcion": "Piccolo (ピッコロ, Pikkoro) es un personaje ficticio de la serie de manga y anime de Dragon Ball. Este surgió tras ser creado en los últimos momentos de vida de su padre, y con el paso del tiempo fue haciéndose menos malvado hasta finalmente convertirse en un ser bondadoso. También comenzó a tomarle cariño a Son Gohan, a quien veía como un hijo."
   },
   {
     "id": 9,
     "nombre": "Raditz",
     "imagen": "raditz.jpg",
-    "powerlevel": 3000
+    "powerlevel": 3000,
+    "descripcion": "Raditz (ラディッツ, Radittsu) es uno de los personajes de Dragon Ball Z . Era hijo de Bardock, y el hermano mayor de Goku (aunque este no lo acepta como hermano), lo que le convierte en el tío de Son Gohan y de Son Goten."
   },
   {
     "id": 10,
     "nombre": "Trunks",
     "imagen": "trunks.jpg",
-    "powerlevel": 32000
+    "powerlevel": 32000,
+    "descripcion": "Trunks es un Humano/Saiyajin e hijo híbrido de Bulma y Vegeta, y más tarde se convierte, en el hermano mayor de su nueva hermana Bra."
   },
   {
     "id": 11,
     "nombre": "Vegeta",
     "imagen": "vegeta.jpg",
-    "powerlevel": 57000
+    "powerlevel": 57000,
+    "descripcion": "Vegeta (ベジータ VejiitaJap) también conocido como Príncipe Vegeta o Príncipe de todos los Saiyajins, es uno de los pocos sobrevivientes de la destrucción del su planeta a manos de Freezer, y es el archienemigo de Son Goku. Él es uno de los personajes principales del manga y anime Dragon Ball Z, así como de Dragon Ball GT."
   }
 ]
