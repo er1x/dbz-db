@@ -4,53 +4,17 @@
   </div>
 </div>
 
-<div class="row">
-  <div class="col-lg-3">
+<div class="row" ng-repeat="row in rows">
+  <div class="col-lg-3" ng-repeat="char in characters.slice(row * 4, 4 + (row * 4))">
     <div class="card panel panel-primary">
       <div class="panel-heading">
-        <strong>Goku</strong>
+        <strong>{{ char.nombre }}</strong>
       </div>
       <div class="panel-body">
-        <a href="/#/123">
-          <img src="images/goku.jpg">
+        <a href="/#/{{ char.id }}">
+          <img src="images/{{ char.imagen }}">
         </a>
       </div>
     </div>
   </div>  
-  <div class="col-lg-3">
-    <div class="card panel panel-primary">
-      <div class="panel-heading">
-        <strong>Goku</strong>
-      </div>
-      <div class="panel-body">
-        <a href="/#/123">
-          <img src="images/goku.jpg">
-        </a>
-      </div>
-    </div>
-  </div>
-  <div class="col-lg-3">
-    <div class="card panel panel-primary">
-      <div class="panel-heading">
-        <strong>Goku</strong>
-      </div>
-      <div class="panel-body">
-        <a href="/#/123">
-          <img src="images/goku.jpg">
-        </a>
-      </div>
-    </div>
-  </div>
-  <div class="col-lg-3">
-    <div class="card panel panel-primary">
-      <div class="panel-heading">
-        <strong>Goku</strong>
-      </div>
-      <div class="panel-body">
-        <a href="/#/123">
-          <img src="images/goku.jpg">
-        </a>
-      </div>
-    </div>
-  </div>
 </div>

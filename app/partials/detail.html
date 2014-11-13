@@ -8,11 +8,11 @@
   <div class="col-lg-3">
     <div class="card panel panel-primary">
       <div class="panel-heading">
-        <strong>Goku</strong>
+        <strong>{{ character.nombre }}</strong>
       </div>
       <div class="panel-body">
-        <a href="/#/123">
-          <img src="images/goku.jpg">
+        <a href="/#/{{ character.id }}">
+          <img src="images/{{ character.imagen }}">
         </a>
       </div>
     </div>
@@ -25,9 +25,9 @@
       </div>
       <div class="panel-body">
         <ul>
-          <li>Power Level: 123124</li>
+          <li>Power Level: {{ character.powerlevel }}</li>
         </ul>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis quam quidem ea rerum, aliquam numquam, excepturi esse voluptas totam, reiciendis sint quaerat nulla? Incidunt excepturi, voluptate saepe dicta aliquam laboriosam.</p>
+        <p>{{ character.descripcion }}</p>
       </div>
     </div>
   </div>
