@@ -5,16 +5,7 @@
 </div>
 
 <div class="row" ng-repeat="row in rows">
-  <div class="col-lg-3" ng-repeat="char in characters.slice(row * 4, 4 + (row * 4))">
-    <div class="card panel panel-primary">
-      <div class="panel-heading">
-        <strong>{{ char.nombre }}</strong>
-      </div>
-      <div class="panel-body">
-        <a href="/#/{{ char.id }}">
-          <img src="images/{{ char.imagen }}">
-        </a>
-      </div>
-    </div>
+  <div class="col-lg-3" ng-repeat="character in characters.slice(row * 4, 4 + (row * 4))">
+    <char-card></char-card>
   </div>  
 </div>
