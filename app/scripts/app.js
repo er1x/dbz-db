@@ -3,6 +3,7 @@ var dbzDb = angular.module('dbzDb', [
   'dbzDb.services',
   'dbzDb.controllers',
   'dbzDb.directives',
+  'dbzDb.filters',
   'ngRoute'
 ]);
 
